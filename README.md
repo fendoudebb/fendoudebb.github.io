@@ -9,6 +9,10 @@
 - 程序员技术之旅-`PHP`-[https://github.com/fendoudebb/z-blog](https://github.com/fendoudebb/z-blog)
 - 程序员技术之旅-`Dashboard`-[https://github.com/fendoudebb/z-blog-dashboard](https://github.com/fendoudebb/z-blog-dashboard)
 
-## 欢迎关注
+## 微信公众号
 
-![https://s.zhangbj.com/pic/png/qrcode.png](https://s.zhangbj.com/pic/png/qrcode.png)
+![微信公众号二维码](https://www.zhangbj.com/uploads/img/20200203/331b1f86191e64b67759ad369f657246.jpg)
+
+## 微信小程序
+
+![微信小程序二维码](https://www.zhangbj.com/uploads/img/20200203/b066b626c34c9ca6a74a822120e082e4.jpg)
