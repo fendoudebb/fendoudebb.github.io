@@ -2,6 +2,10 @@
 
 程序员技术之旅：[https://www.zhangbj.com](https://www.zhangbj.com)
 
+## GitHub
+
+[fendoudebb](https://github.com/fendoudebb)
+
 ## 开源项目
 
 - 程序员技术之旅-`OpenResty`-[https://github.com/fendoudebb/z-blog-openresty](https://github.com/fendoudebb/z-blog-openresty)
